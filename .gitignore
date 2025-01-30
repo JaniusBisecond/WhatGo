@@ -1,0 +1,13 @@
+/Saved
+/Intermediate
+/DerivedDataCache
+/Build
+/Binaries
+
+*.vs
+*.sln
+*.fbx
+*.obj
+*.png
+*.jpg
+*.vsconfig
