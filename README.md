@@ -1,15 +1,22 @@
-# WhatGo
-该仓库只存放源文件，无编译版本。可玩的发布版本访问:https://janiusb.itch.io/whatgo  
-This repository only contains the source files, without any compiled versions. For playable release versions, please visit:https://janiusb.itch.io/whatgo
+<div align="center">
+<h1>WhatGo</h1>
+</div>
+<div align="center">
+<img src = "/whatgo.png">
+</div>
+<p>该仓库只存放源文件，无编译版本。可玩的发布版本访问:https://janiusb.itch.io/whatgo  </p>
+<p>This repository only contains the source files, without any compiled versions. For playable release versions, please visit:https://janiusb.itch.io/whatgo</p>
+
 # 中文
 ## 游戏介绍  
-根据韩国围棋新规则改编的围棋游戏。  
-在提子后需要将其放入棋盖中，若未放入，则判输。  
-※另外，不要捶桌子，这很没素质
+<p>根据韩国围棋新规则改编的围棋游戏。  </p>
+<p>在提子后需要将其放入棋盖中，若未放入，则判输。  </p>
+<p>※另外，不要捶桌子，这很没素质</p>
+
 ## 游玩方式  
 **鼠标左键**  
-请记得将被吃掉的棋子放入围棋盒子的盖子中，否则将被视为违规。  
-同时，请善用这一规则来取得胜利。  
+<p>请记得将被吃掉的棋子放入围棋盒子的盖子中，否则将被视为违规。   </p>
+<p>同时，请善用这一规则来取得胜利。   </p>
 
 ## 目前支持语言  
 中文  
